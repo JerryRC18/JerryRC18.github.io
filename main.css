@@ -16,6 +16,8 @@ body {
      
  }
 
+.nav-link:hover { color:rgb(189, 24, 24)}
+
 .navbar{
     position: fixed;
 }
